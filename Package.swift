@@ -15,20 +15,17 @@ let package = Package(
             targets: ["OpusKit"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/SerhiiShovkoplias/libopus.git", from: "1.0.3"),
         .package(url: "https://github.com/SerhiiShovkoplias/OpusBinding.git", from: "1.0.5")
     ],
     targets: [
         .target(
             name: "OpusKit",
             dependencies: [
-                .product(name: "libopus", package: "libopus"),
                 .product(name: "OpusBinding", package: "OpusBinding")
             ],
             path: "Sources/OpusKit",
             publicHeadersPath: "include",
             linkerSettings: [
-              .linkedLibrary("opus"),
               .linkedFramework("AudioToolbox"),
               .linkedFramework("AVFoundation")
             ]
