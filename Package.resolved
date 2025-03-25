@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/SerhiiShovkoplias/OpusBinding.git",
       "state" : {
-        "revision" : "743707ba088e41b97a2cb4598a82ee1eadfbc729",
-        "version" : "1.0.5"
+        "revision" : "b9feb3717dd25e334e30d0365020c646c7752c02",
+        "version" : "1.0.6"
       }
     }
   ],

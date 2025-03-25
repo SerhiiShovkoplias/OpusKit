@@ -15,14 +15,12 @@ let package = Package(
             targets: ["OpusKit"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/SerhiiShovkoplias/OpusBinding.git", from: "1.0.5")
+        .package(url: "https://github.com/SerhiiShovkoplias/OpusBinding.git", from: "1.0.6")
     ],
     targets: [
         .target(
             name: "OpusKit",
-            dependencies: [
-                .product(name: "OpusBinding", package: "OpusBinding")
-            ],
+            dependencies: ["OpusBinding"],
             path: "Sources/OpusKit",
             publicHeadersPath: "include",
             linkerSettings: [
