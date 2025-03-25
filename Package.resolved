@@ -1,13 +1,13 @@
 {
-  "originHash" : "2e5a85563e7e3b08abfb73ae13370baf21d1e242b6722be2ce2503928eff0cf8",
+  "originHash" : "7e2427af7bfd87e9a8aaa7ac576ccd2cd266ee76621c5f25bc5b4119cd29a42e",
   "pins" : [
     {
       "identity" : "libopus",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/SerhiiShovkoplias/libopus.git",
       "state" : {
-        "revision" : "792c44f5d5bf901ac93df7bdd8cb1c47f8df7993",
-        "version" : "1.0.0"
+        "revision" : "3774e6a07bbe30c869951ae5dada5941d00c30ad",
+        "version" : "1.0.3"
       }
     },
     {
@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/SerhiiShovkoplias/OpusBinding.git",
       "state" : {
-        "revision" : "070b941e45c2b111e6dc08a2f4bd6e65b6d082d4",
-        "version" : "1.0.1"
+        "revision" : "7ab549d2ad228ee9fcc44e8ec95432bffc652f42",
+        "version" : "1.0.4"
       }
     }
   ],
