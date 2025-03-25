@@ -1,5 +1,4 @@
 {
-  "originHash" : "7e2427af7bfd87e9a8aaa7ac576ccd2cd266ee76621c5f25bc5b4119cd29a42e",
   "pins" : [
     {
       "identity" : "libopus",
@@ -15,10 +14,10 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/SerhiiShovkoplias/OpusBinding.git",
       "state" : {
-        "revision" : "7ab549d2ad228ee9fcc44e8ec95432bffc652f42",
-        "version" : "1.0.4"
+        "revision" : "743707ba088e41b97a2cb4598a82ee1eadfbc729",
+        "version" : "1.0.5"
       }
     }
   ],
-  "version" : 3
+  "version" : 2
 }
