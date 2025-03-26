@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/SerhiiShovkoplias/libopus.git",
       "state" : {
-        "revision" : "5785508ea6ba5eae69068850e10264ec33eb312b",
-        "version" : "1.0.4"
+        "revision" : "af6e2f9e14b0957f287cf2b8c5fa4cc15fba2c23",
+        "version" : "1.0.5"
       }
     },
     {
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/SerhiiShovkoplias/OpusBinding.git",
       "state" : {
-        "revision" : "c8377c67e46e5c8a28f366a1fc30daf76509b789",
-        "version" : "1.0.7"
+        "revision" : "3a44a8aa83576ccedead9aefdc184f0bb4d4e42c",
+        "version" : "1.0.8"
       }
     }
   ],

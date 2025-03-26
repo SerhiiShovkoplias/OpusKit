@@ -15,7 +15,7 @@ let package = Package(
             targets: ["OpusKit"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/SerhiiShovkoplias/OpusBinding.git", from: "1.0.7")
+        .package(url: "https://github.com/SerhiiShovkoplias/OpusBinding.git", from: "1.0.8")
     ],
     targets: [
         .target(
