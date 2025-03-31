@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "libopus",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SerhiiShovkoplias/libopus.git",
+      "state" : {
+        "revision" : "3a2982f6e21ab876100e99df3ba7072ea317fb6e",
+        "version" : "1.0.7"
+      }
+    },
+    {
+      "identity" : "opusbinding",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SerhiiShovkoplias/OpusBinding.git",
+      "state" : {
+        "revision" : "84966c0d6bb393d8b0010679c79f1c2ab3bfc4a0",
+        "version" : "1.0.11"
+      }
+    }
+  ],
+  "version" : 2
+}
